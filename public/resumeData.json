@@ -30,34 +30,41 @@
     ]
   },
   "resume":{
-    "skillmessage":"Skills and Interests",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of California Santa Cruz",
         "degree":"Bachelor of Science in Technology Information Management; Minor In Computer Science",
-        "graduated":"Expected Graduation: June 2021",
-        "description":"GPA: 3.61/4.0 | Dean’s List Honors 2019-2020"
+        "graduated":"• Expected Graduation: June 2021",
+        "description":"GPA: 3.64/4.0 | Dean’s List Honors 2019-2020"
       },
       {
-        "school":"",
+        "school":"NCAA DIII Track and Field Athlete",
         "degree":"",
         "graduated":"",
-        "description":""
+        "description":"DIII All Academic Honors. Ranked 36 in the nation in an individual event. Student Athlete Advisory Committee as men’s track and field representative."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"SapientX",
+        "title":"Software Engineering R&D Intern ",
+        "years":"May 2020 - Present",
+        "description":""
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Gesher Group",
+        "title":"Data Analytics Consultant",
+        "years":"March 2020 - Present",
+        "description":""
+      },
+      {
+        "company":"UCSC Jack Baskin School of Engineering",
+        "title":"CSE 12 Lab Tutor/Grader ",
+        "years":"September 2019 - January 2020",
+        "description":"Assisted groups of ~40 students in understanding digital logic circuits, compilation, MIPS assembly language, computer architecture, basic computer hardware/software, and Git/Command line. Debugged, optimized, and graded MML digital logic/MIPS assembly language lab assignments using Python scripts for ~400 students. Collaborated with team of 20 to schedule and teach content."
       }
+
     ],
     "skills":[
       {
@@ -73,11 +80,15 @@
         "level":"50%"
       },
       {
-        "name":"HTML5/CSS/JavaScript",
+        "name":"HTML5/CSS",
         "level":"90%"
       },
       {
-        "name":"Swift(IOS Xcode)",
+        "name":"JavaScript",
+        "level":"100%"
+      },
+      {
+        "name":"Swift",
         "level":"80%"
       },
       {
@@ -85,7 +96,19 @@
         "level":"50%"
       },
       {
-        "name":"SQL",
+        "name":"React + Native",
+        "level":"80%"
+      },
+      {
+        "name":"C/C++",
+        "level":"80%"
+      },
+      {
+        "name":"Firebase",
+        "level":"80%"
+      },
+      {
+        "name":"Tableau",
         "level":"80%"
       }
     ]
@@ -93,46 +116,30 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"IOS/Android Statistics App",
+        "category":"Data Analysis & App Development",
+        "image":"Stats.png",
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"IOS Max Lift Calculator App",
+        "category":"App Development",
+        "image":"Lift.png",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Stock Price Scraper",
+        "category":"Web Scraping",
+        "image":"stock.jpg",
+        "url":"https://github.com/ConradP3/Stock-Price-Scraper"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"'You miss 100% of the shots you don't take.' - Wayne Gretzky ",
-        "user":"Michael Scott"
-      },
-      {
         "text":"",
-        "user":""
+        "user":"Coming Soon"
       }
     ]
   }
