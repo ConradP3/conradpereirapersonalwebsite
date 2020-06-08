@@ -15,6 +15,7 @@
    g. Testimonials Section
    h. Contact Section
    i. Footer
+   j. Athletics
 
 ===================================================================== */
 
@@ -1007,3 +1008,36 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
+/* ------------------------------------------------------------------ */
+/* J. Athletics
+/* ------------------------------------------------------------------ */
+
+
+
+#Athletics {
+   background: #ebeeee;
+   padding-top: 90px;
+   padding-bottom: 60px;
+
+}
+#Athletics h1 {
+   font: 15px/24px 'opensans-semibold', sans-serif;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+   text-align: center;
+   margin-right: 50%;
+   margin-left: 155%;
+
+
+
+   color: #95A3A3;
+}
+
+#Athletics video {
+  display: flex;
+  flex-direction: row;
+  margin-right: 50%;
+  margin-left:65%;
+
+}
