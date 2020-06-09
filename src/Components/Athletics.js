@@ -26,7 +26,7 @@ class Athletics extends Component {
 
               <h1>Athletics</h1>
               <div classname='jump-video'>
-                <video src={video} width="600" height="300" controls="controls" muted='true' autoplay="true" />
+                <video src={video} width="600" height="300" controls="controls" muted='true' autoplay="true" type='video/mov' />
               </div>
 
 

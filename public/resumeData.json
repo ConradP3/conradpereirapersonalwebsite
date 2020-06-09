@@ -66,6 +66,27 @@
       }
 
     ],
+    "work2":[
+      {
+        "company":"CALPIRG",
+        "title":"Marketing/Visibilty Intern ",
+        "years":"March 2020 - Present",
+        "description":"Developed infographics and social media posts using Adobe Illustrator and Spark to promote the Plastic Free Seas Campaign, reducing single use plastics, and proposing alternatives to plastics"
+      },
+      {
+        "company":"UC Santa Cruz",
+        "title":"Athletics Event Manager ",
+        "years":"2017 - 2019",
+        "description":"Emceed athletic events, photographed, organized/set up, ticketing, and admissions with basic cash handling certification. Created advertisements and event programs using Adobe Photoshop"
+      },
+      {
+        "company":"NV Pools",
+        "title":"Life Guard ",
+        "years":"2014 - 2017",
+        "description":"Maintained customer safety using CPR, lifeguard and first-aid certifications. Tested pool’s pH levels and cleaned facilities."
+      }
+
+    ],
     "skills":[
       {
         "name":"Python",
