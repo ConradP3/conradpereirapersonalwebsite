@@ -1,18 +1,11 @@
 import React, { Component } from 'react';
-import video from "/Users/conradpereira/Desktop/conradpereirapersonalwebsite/src/videos/highjump.MOV";
 
 class Athletics extends Component {
   render() {
 
     if(this.props.data){
-      var name = this.props.data.name;
-      var street = this.props.data.address.street;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var zip = this.props.data.address.zip;
-      var phone= this.props.data.phone;
-      var email = this.props.data.email;
-      var message = this.props.data.contactmessage;
+      var image = 'images/highjump.mov';
+      var description = 'High Jump 2019';
     }
 
     return (
@@ -26,7 +19,9 @@ class Athletics extends Component {
 
               <h1>Athletics</h1>
               <div classname='jump-video'>
-                <video src={video} width="600" height="300" controls="controls" muted='true' autoplay="true" type='video/mov' />
+                <iframe width="966" height="543" src="https://www.youtube.com/embed/pwFonu50YTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+              
               </div>
 
 

@@ -138,21 +138,24 @@
     "projects": [
       {
         "title":"IOS/Android Statistics App",
-        "category":"Data Analysis & App Development",
+        "category":"Data Analysis & App Dev",
         "image":"Stats.png",
-        "url":""
+        "url":"https://github.com/ConradP3/Statistics-Modules",
+        "tools": "React + Native, JavaScript, Python"
       },
       {
         "title":"IOS Max Lift Calculator App",
-        "category":"App Development",
+        "category":"App Dev",
         "image":"Lift.png",
-        "url":""
+        "url":"https://github.com/ConradP3/MaxLiftCalc/",
+        "tools": "Swift (Xcode)"
       },
       {
         "title":"Stock Price Scraper",
-        "category":"Web Scraping",
+        "category":"Web Scraping & Data Analysis",
         "image":"stock.jpg",
-        "url":"https://github.com/ConradP3/Stock-Price-Scraper"
+        "url":"https://github.com/ConradP3/Stock-Price-Scraper",
+        "tools": "Python, Tableau"
       }
     ]
   },
@@ -163,5 +166,13 @@
         "user":"Buddha"
       }
     ]
-  }
+  },
+  "Athletics":[
+    {
+      "image": "highjump.mov",
+      "description": "High Jump 2019"
+    }
+  ]
+
+
 }
