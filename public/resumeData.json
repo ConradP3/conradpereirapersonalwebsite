@@ -140,7 +140,7 @@
         "title":"IOS/Android Statistics App",
         "category":"Data Analysis & App Dev",
         "image":"Stats.png",
-        "url":"https://github.com/ConradP3/Statistics-Modules",
+        "url":"https://github.com/ConradP3/StatsApp",
         "tools": "React + Native, JavaScript, Python"
       },
       {
@@ -156,6 +156,13 @@
         "image":"stock.jpg",
         "url":"https://github.com/ConradP3/Stock-Price-Scraper",
         "tools": "Python, Tableau"
+      },
+      {
+        "title":"Gesher Group Website",
+        "category":"Web Development",
+        "image":"gesher.png",
+        "url":"https://www.geshergroup.org/",
+        "tools": "React"
       }
     ]
   },
