@@ -8,6 +8,10 @@ class Athletics extends Component {
       var description = 'High Jump 2019';
     }
 
+    var myVids = [
+        "https://www.youtube.com/embed/pwFonu50YTw",
+
+    ];
     return (
       <section id="Athletics">
 
@@ -19,9 +23,9 @@ class Athletics extends Component {
 
               <h1>Athletics</h1>
               <div classname='jump-video'>
-                <iframe width="966" height="543" src="https://www.youtube.com/embed/pwFonu50YTw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="966" height="543" src={myVids} frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-              
+
               </div>
 
 

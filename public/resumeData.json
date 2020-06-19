@@ -36,13 +36,13 @@
         "school":"University of California Santa Cruz",
         "degree":"Bachelor of Science in Technology Information Management; Minor In Computer Science",
         "graduated":"• Expected Graduation: June 2021",
-        "description":"GPA: 3.64/4.0 | Dean’s List Honors 2019-2020"
+        "description":"GPA: 3.64/4.0 | 4 X Dean’s List Honors 2019-2020"
       },
       {
         "school":"NCAA DIII Track and Field Athlete",
         "degree":"",
         "graduated":"",
-        "description":"DIII All Academic Honors. Ranked 36 in the nation in an individual event. Student Athlete Advisory Committee as men’s track and field representative."
+        "description":"DIII All Academic Honors. Ranked 36 in the nation in the Decathlon. Student Athlete Advisory Committee as men’s track and field representative."
       }
     ],
     "work":[
@@ -50,23 +50,29 @@
         "company":"SapientX",
         "title":"Software Engineering R&D Intern ",
         "years":"May 2020 - Present",
-        "description":""
+        "description":"Lead effort in creating rapid prototype for text summarization to be integrated with SapientX’s Tele assistant. Use Python scripts to answer potential queries within a Zoom meeting, including automatic meeting summarization using natural language processing. Jira software and agile/scrum methods to collaborate and maintain project schedules."
       },
       {
         "company":"Gesher Group",
-        "title":"Data Analytics Consultant",
+        "title":"Data Analytics Consultant & Web Dev",
         "years":"March 2020 - Present",
-        "description":""
+        "description":"Premier Consulting Group at UC Santa Cruz. Analyzing business data and metrics to help businesses make the most informed decisions. Building and Designing Gesher's website with agile methods to market to B2B clients."
       },
       {
         "company":"UCSC Jack Baskin School of Engineering",
         "title":"CSE 12 Lab Tutor/Grader ",
         "years":"September 2019 - January 2020",
-        "description":"Assisted groups of ~40 students in understanding digital logic circuits, compilation, MIPS assembly language, computer architecture, basic computer hardware/software, and Git/Command line. Debugged, optimized, and graded MML digital logic/MIPS assembly language lab assignments using Python scripts for ~400 students. Collaborated with team of 20 to schedule and teach content."
+        "description":"Assisted groups of 40 students in understanding digital logic circuits, compilation, MIPS assembly language, computer architecture, basic computer hardware/software, and Git/Command line. Debugged, optimized, and graded MML digital logic/MIPS assembly language lab assignments using Python scripts for ~400 students. Collaborated with team of 20 to schedule and teach content."
       }
 
     ],
     "work2":[
+      {
+        "company":"AT&T",
+        "title":"Summer Externship",
+        "years":"July 2020 - Present",
+        "description":"Learning experience on Project Management, AI, IOT, ML, and Professional Development."
+      },
       {
         "company":"CALPIRG",
         "title":"Marketing/Visibilty Intern ",
