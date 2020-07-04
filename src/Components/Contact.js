@@ -15,13 +15,15 @@ class Contact extends Component {
     }
 
     return (
+
       <section id="contact">
 
          <div className="row section-head">
-
+         <h2><font color="white">Get In Touch.</font></h2>
+          <h1></h1>
             <div className="two columns header-col">
 
-               <h1><span>Get In Touch.</span></h1>
+
 
             </div>
 
@@ -81,7 +83,8 @@ class Contact extends Component {
 					   <h4>Contact</h4>
 					   <p className="address">
 						   {name}<br />
-						   <span>{phone}</span>
+						   <span>{phone}</span><br />
+               Conradp3.clp@gmail.com
 					   </p>
 				   </div>
 
