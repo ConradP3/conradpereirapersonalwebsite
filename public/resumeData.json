@@ -74,6 +74,12 @@
         "description":"Learning experience on Project Management, AI, IOT, ML, and Professional Development."
       },
       {
+        "company":"NCAA Student Athlete Advisory Committee",
+        "title":"PR/Outreach Volunteer ",
+        "years":"Sept. 2019 - Present",
+        "description":"UC Santa Cruz Men's Track and Field representative. Improve quality of life for students on campus and maintain relations between organizations."
+      },
+      {
         "company":"CALPIRG",
         "title":"Marketing/Visibilty Intern ",
         "years":"March 2020 - Present",
@@ -93,6 +99,7 @@
       }
 
     ],
+
     "skills":[
       {
         "name":"Python",
