@@ -26,6 +26,11 @@
         "name":"github",
         "url":"http://github.com/ConradP3",
         "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:Conradp3.clp@gmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
@@ -54,7 +59,7 @@
       },
       {
         "company":"Gesher Group",
-        "title":"Data Analytics Consultant & Web Dev",
+        "title":"Web Developer & Data Analytics Consultant",
         "years":"March 2020 - Present",
         "description":"Premier Consulting Group at UC Santa Cruz. Analyzing business data and metrics to help businesses make the most informed decisions. Building and Designing Gesher's website with agile methods to market to B2B clients."
       },
@@ -72,6 +77,12 @@
         "title":"Summer Externship",
         "years":"June 2020 - Present",
         "description":"Learning experience on Project Management, AI, IOT, ML, and Professional Development."
+      },
+      {
+        "company":"NCAA Student Athlete Advisory Committee",
+        "title":"PR/Outreach Volunteer ",
+        "years":"Sept. 2019 - Present",
+        "description":"UC Santa Cruz Men's Track and Field representative. Improve quality of life for students on campus and maintain relations between organizations."
       },
       {
         "company":"CALPIRG",

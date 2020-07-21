@@ -26,6 +26,11 @@
         "name":"github",
         "url":"http://github.com/ConradP3",
         "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:Conradp3.clp@gmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
@@ -99,7 +104,6 @@
       }
 
     ],
-
     "skills":[
       {
         "name":"Python",
