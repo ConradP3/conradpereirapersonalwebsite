@@ -1,6 +1,10 @@
 import React, { Component } from 'react';
+import { Container, Button } from 'reactstrap'
 
 class Portfolio extends Component {
+
+  //function that takes in expanded and makes it the opposite of what it currently is
+
   render() {
 
     if(this.props.data){
@@ -17,7 +21,9 @@ class Portfolio extends Component {
                      <p>{projects.tools}</p>
                   </div>
                 </div>
+              <container style={ { } }>
               <div className="link-icon"><i className="fa fa-link"></i></div>
+              </container>
             </a>
           </div>
         </div>
