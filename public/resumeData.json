@@ -56,8 +56,7 @@
         "title":"Software Engineering R&D Intern ",
         "years":"May 2020 - Present",
         "description":"Lead effort in creating rapid prototype for text summarization to be integrated with SapientX’s Tele assistant. Use Python scripts to answer potential queries within a Zoom meeting, including automatic meeting summarization using natural language processing. Jira software and agile/scrum methods to collaborate and maintain project schedules.",
-        "location":"Remote",
-        "site":"https://sapientx.com/"
+        "location":"Remote"
       },
       {
         "company":"Gesher Group",
@@ -172,13 +171,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Telecaster Video Conferencing Assistant",
-        "category":"AI Assistant Software, NLP",
-        "image":"SapientX.png",
-        "url":"https://sapientx.com/",
-        "tools": "Python, Chatscript, Zoom API/SDK"
-      },
-      {
         "title":"IOS/Android Statistics App",
         "category":"Data Analysis & App Dev",
         "image":"Stats.png",
@@ -205,13 +197,6 @@
         "image":"gesher.png",
         "url":"https://www.geshergroup.org/",
         "tools": "React"
-      },
-      {
-        "title":"AccessoryMarket",
-        "category":"Full Stack Development",
-        "image":"Shop.svg",
-        "url":"",
-        "tools": "React, Redux, MongoDB, and Heroku"
       }
     ]
   },

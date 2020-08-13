@@ -1,12 +1,12 @@
 {
   "main": {
     "name":"Conrad Pereira",
-    "occupation":"",
-    "description":"Coming soon",
+    "occupation":"Aspiring Engineer.",
+    "description":"",
     "image":"profilepic.jpg",
-    "bio":"Driven, curious, and hard-working information technology and computer science student. Seeking opportunities for growth and the ability to engage with challenging technical problems and apply creative problem solving skills to provide solutions to increase efficiency and provide value.",
+    "bio":"Driven, curious, and hard-working information technology and computer science student. Seeking opportunities for growth and the ability to engage with challenging technical problems.",
     "contactmessage":"",
-    "email": "Conradp3.clp@gmail.com",
+    "email": "Conrad.Pereira@protonmail.com",
     "phone": "703-825-0855",
     "address":{
       "street":"",
@@ -29,7 +29,7 @@
       },
       {
         "name":"email",
-        "url":"mailto:Conradp3.clp@gmail.com",
+        "url":"mailto:Conrad.Pereira@protonmail.com",
         "className":"fa fa-envelope"
       }
     ]
@@ -39,9 +39,9 @@
     "education":[
       {
         "school":"University of California Santa Cruz",
-        "degree":"Bachelor of Science in Technology Information Management; Minor In Computer Science",
-        "graduated":"• Expected Graduation: June 2021",
-        "description":"GPA: 3.7/4.0 | 4 X Dean’s List Honors 2019-2020"
+        "degree":"B.A. in Computer Science; B.S. in Technology Information Management",
+        "graduated":"",
+        "description":"GPA: 3.7/4.0 | Dean’s List Honors 2018 - Present"
       },
       {
         "school":"NCAA DIII Track and Field Athlete",
@@ -55,52 +55,69 @@
         "company":"SapientX",
         "title":"Software Engineering R&D Intern ",
         "years":"May 2020 - Present",
-        "description":"Lead effort in creating rapid prototype for text summarization to be integrated with SapientX’s Tele assistant. Use Python scripts to answer potential queries within a Zoom meeting, including automatic meeting summarization using natural language processing. Jira software and agile/scrum methods to collaborate and maintain project schedules."
+        "description":"Lead effort in creating rapid prototype for text summarization to be integrated with SapientX’s Tele assistant. Use Python scripts to answer potential queries within a Zoom meeting, including automatic meeting summarization using natural language processing. Jira software and agile/scrum methods to collaborate and maintain project schedules.",
+        "location":"Remote"
       },
       {
         "company":"Gesher Group",
         "title":"Web Developer & Data Analytics Consultant",
         "years":"March 2020 - Present",
-        "description":"Premier Consulting Group at UC Santa Cruz. Analyzing business data and metrics to help businesses make the most informed decisions. Building and Designing Gesher's website with agile methods to market to B2B clients."
+        "description":"Premier Consulting Group at UC Santa Cruz. Analyzing business data and metrics to help businesses make the most informed decisions. Building and Designing Gesher's website with agile methods to market to B2B clients.",
+        "location":"Santa Cruz, CA",
+        "site":"https://www.geshergroup.org/"
       },
       {
         "company":"UCSC Jack Baskin School of Engineering",
-        "title":"CSE 12 Lab Tutor/Grader ",
+        "title":"Lab Teaching Assistant & Grader ",
         "years":"September 2019 - January 2020",
-        "description":"Assisted groups of 40 students in understanding digital logic circuits, compilation, MIPS assembly language, computer architecture, basic computer hardware/software, and Git/Command line. Debugged, optimized, and graded MML digital logic/MIPS assembly language lab assignments using Python scripts for ~400 students. Collaborated with team of 20 to schedule and teach content."
+        "description":"Assisted groups of 40 students in understanding digital logic circuits, compilation, MIPS assembly language, computer architecture, basic computer hardware/software, and Git/Command line. Debugged, optimized, and graded MML digital logic/MIPS assembly language lab assignments using Python scripts for ~400 students. Collaborated with team of 20 to schedule and teach content.",
+        "location":"Santa Cruz, CA",
+        "site":"https://www.soe.ucsc.edu/"
       }
 
     ],
     "work2":[
       {
-        "company":"AT&T",
-        "title":"Summer Externship",
+        "company":"Cuspis",
+        "title":"Volunteer",
         "years":"June 2020 - Present",
-        "description":"Learning experience on Project Management, AI, IOT, ML, and Professional Development."
+        "description":"",
+        "location":"Remote",
+        "site":"https://www.cuspis.org/"
+
       },
       {
         "company":"NCAA Student Athlete Advisory Committee",
         "title":"PR/Outreach Volunteer ",
         "years":"Sept. 2019 - Present",
-        "description":"UC Santa Cruz Men's Track and Field representative. Improve quality of life for students on campus and maintain relations between organizations."
+        "description":"UC Santa Cruz Men's Track and Field representative. Improve quality of life for students on campus and maintain relations between organizations.",
+        "location":"Santa Cruz, CA",
+        "site":"https://www.goslugs.com/landing/index"
       },
       {
         "company":"CALPIRG",
         "title":"Marketing/Visibilty Intern ",
         "years":"March 2020 - Present",
-        "description":"Developed infographics and social media posts using Adobe Illustrator and Spark to promote the Plastic Free Seas Campaign, reducing single use plastics, and proposing alternatives to plastics"
+        "description":"Developed infographics and social media posts using Adobe Illustrator and Spark to promote the Plastic Free Seas Campaign, reducing single use plastics, and proposing alternatives to plastics",
+        "location":"Santa Cruz, CA",
+        "site":"https://calpirg.org/"
+
       },
       {
         "company":"UC Santa Cruz",
         "title":"Athletics Event Manager ",
         "years":"2017 - 2019",
-        "description":"Emceed athletic events, photographed, organized/set up, ticketing, and admissions with basic cash handling certification. Created advertisements and event programs using Adobe Photoshop"
+        "description":"Emceed athletic events, photographed, organized/set up, ticketing, and admissions with basic cash handling certification. Created advertisements and event programs using Adobe Photoshop",
+        "location":"Santa Cruz, CA",
+        "site":"https://www.goslugs.com/landing/index"
       },
       {
         "company":"NV Pools",
         "title":"Life Guard ",
         "years":"2014 - 2017",
-        "description":"Maintained customer safety using CPR, lifeguard and first-aid certifications. Tested pool’s pH levels and cleaned facilities."
+        "description":"Maintained customer safety using CPR, lifeguard and first-aid certifications. Tested pool’s pH levels and cleaned facilities.",
+        "location":"Fairfax, VA",
+        "site":"https://www.nvpools.com/"
       }
 
     ],
@@ -134,7 +151,7 @@
         "level":"50%"
       },
       {
-        "name":"React + Native",
+        "name":"React",
         "level":"80%"
       },
       {
@@ -161,7 +178,7 @@
         "tools": "React + Native, JavaScript, Python"
       },
       {
-        "title":"IOS Max Lift Calculator App",
+        "title":"Max Lift Performance Fitness App",
         "category":"App Dev",
         "image":"Lift.png",
         "url":"https://github.com/ConradP3/MaxLiftCalc/",
