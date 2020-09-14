@@ -171,6 +171,13 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Gesher Group Website",
+        "category":"Web Development",
+        "image":"gesher.png",
+        "url":"https://www.geshergroup.org/",
+        "tools": "React"
+      },
+      {
         "title":"IOS/Android Statistics App",
         "category":"Data Analysis & App Dev",
         "image":"Stats.png",
@@ -192,11 +199,11 @@
         "tools": "Python, Tableau"
       },
       {
-        "title":"Gesher Group Website",
-        "category":"Web Development",
-        "image":"gesher.png",
-        "url":"https://www.geshergroup.org/",
-        "tools": "React"
+        "title":"NeurotechX",
+        "category":"Full Stack Development",
+        "image":"neurotechx.png",
+        "url":"https://github.com/NeuroTechSC",
+        "tools": "React, Flask"
       }
     ]
   },
