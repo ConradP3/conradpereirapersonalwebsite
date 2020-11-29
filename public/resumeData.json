@@ -4,7 +4,7 @@
     "occupation":"Aspiring Engineer.",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"Driven, curious, and hard-working information technology and computer science student. Seeking opportunities for growth and the ability to engage with challenging technical problems.",
+    "bio":"Driven, curious, and hard-working IT and computer science student. Seeking opportunities for growth and the ability to engage with challenging technical problems.",
     "contactmessage":"",
     "email": "Conrad.Pereira@protonmail.com",
     "phone": "703-825-0855",
@@ -39,9 +39,9 @@
     "education":[
       {
         "school":"University of California Santa Cruz",
-        "degree":"B.A. in Computer Science; B.S. in Technology Information Management",
-        "graduated":"",
-        "description":"GPA: 3.7/4.0 | Dean’s List Honors 2018 - Present"
+        "degree":"B.S. in Information Systems Management; Minor in Computer Science",
+        "graduated":"2017 - June 2021",
+        "description":"Sept. 2017 - June 2021 | GPA: 3.7/4.0 | Dean’s List Honors"
       },
       {
         "school":"NCAA DIII Track and Field Athlete",
@@ -54,13 +54,13 @@
       {
         "company":"SapientX",
         "title":"Software Engineering R&D Intern ",
-        "years":"May 2020 - Present",
+        "years":"May 2020 - October 2020",
         "description":"Lead effort in creating rapid prototype for text summarization to be integrated with SapientX’s Tele assistant. Use Python scripts to answer potential queries within a Zoom meeting, including automatic meeting summarization using natural language processing. Jira software and agile/scrum methods to collaborate and maintain project schedules.",
         "location":"Remote"
       },
       {
         "company":"Gesher Group",
-        "title":"Web Developer & Data Analytics Consultant",
+        "title":"IT Consultant, Project Manager",
         "years":"March 2020 - Present",
         "description":"Premier Consulting Group at UC Santa Cruz. Analyzing business data and metrics to help businesses make the most informed decisions. Building and Designing Gesher's website with agile methods to market to B2B clients.",
         "location":"Santa Cruz, CA",
@@ -68,9 +68,9 @@
       },
       {
         "company":"UCSC Jack Baskin School of Engineering",
-        "title":"Lab Teaching Assistant & Grader ",
-        "years":"September 2019 - January 2020",
-        "description":"Assisted groups of 40 students in understanding digital logic circuits, compilation, MIPS assembly language, computer architecture, basic computer hardware/software, and Git/Command line. Debugged, optimized, and graded MML digital logic/MIPS assembly language lab assignments using Python scripts for ~400 students. Collaborated with team of 20 to schedule and teach content.",
+        "title":"Teaching Assistant & Grader ",
+        "years":"September 2019 - Present",
+        "description":"Assisted groups of 40 students in understanding digital logic circuits, compilation, MIPS assembly language, computer architecture, basic computer hardware/software, and Git/Command line. Debugged, optimized, and graded MML digital logic/MIPS assembly language lab assignments using Python scripts for ~400 students. Collaborated with team of 20 to schedule and teach content. Analyzed C, Java, and SQL lab assignments using Postgres.",
         "location":"Santa Cruz, CA",
         "site":"https://www.soe.ucsc.edu/"
       }
@@ -79,9 +79,9 @@
     "work2":[
       {
         "company":"Cuspis",
-        "title":"Volunteer",
+        "title":"Cyber Security Intern (Volunteer)",
         "years":"June 2020 - Present",
-        "description":"",
+        "description":"Developed secure data model design for LiNKS, an anti-human trafficking web application to allow victims to maintain confidentiality and coordinate with aid organizations.",
         "location":"Remote",
         "site":"https://www.cuspis.org/"
 
@@ -203,7 +203,14 @@
         "category":"Full Stack Development",
         "image":"neurotechx.png",
         "url":"https://github.com/NeuroTechSC",
-        "tools": "React, Flask"
+        "tools": "React, Flask, Pytorch, OpenBCI"
+      },
+      {
+        "title":"Forecasting Automation",
+        "category":"Full Stack Development",
+        "image":"canopy.png",
+        "url":"https://gesherforecasts.herokuapp.com/",
+        "tools": "React, Flask, Google API, "
       }
     ]
   },
